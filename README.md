@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Zeynep Yaren Deveci
+# Z.Yaren Deveci
 
 Computer Engineering student at Ankara University, focused on cloud infrastructure, networking, and cybersecurity. I am building my path toward a Cloud Operations / DevOps role, with AWS as my primary platform.
 
