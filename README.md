@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Z.Yaren Deveci
+# Yaren
 
 Computer Engineering student at Ankara University, focused on cloud infrastructure, networking, and cybersecurity. I am building my path toward a Cloud Operations / DevOps role, with AWS as my primary platform.
 
@@ -40,5 +40,5 @@ Computer Engineering student at Ankara University, focused on cloud infrastructu
 - Grow into a Cloud Operations / DevOps Engineer role
 
 
-- Email: your.email@example.com
+- Email: yarendeveci477@gmail.com
 -->
