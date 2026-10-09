@@ -28,7 +28,7 @@ Computer Engineering student at Ankara University, interested in **systems, infr
 - **[Notes App](https://github.com/Yaren144/noteApp)**: Full-stack notes application with authentication and a RESTful API.
 - **[Robo Advisor](https://github.com/Yaren144/robo_advisor)**: Data-driven investment decision support with analysis and a dashboard.
 - **Network Intrusion Detection**: Machine learning based detection of anomalous network traffic.
-- **Signal Classification CNN**: Convolutional neural network for classifying signal data from spectrograms.
+- **[Signal Classification CNN](https://github.com/Yaren144/sinyal-siniflandirma)**: Convolutional neural network for classifying signal data from spectrograms.
 
 ## Certifications
 
